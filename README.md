@@ -36,7 +36,7 @@ Se deberá ingresar por *BODY* una partida de buscaminas de la forma indicado ab
     [ 0,0,0,1,0 ]
 ]
 
-##Test
+## Test
 
 Los test se podrán correr desde la consola bajo el comando: 
 $ jest
