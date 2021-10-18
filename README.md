@@ -41,7 +41,7 @@ Se deberá ingresar por *BODY* una partida de buscaminas de la forma indicado ab
 Los test se podrán correr desde la consola bajo el comando: 
 $ jest
 
-Bibliotecas utilizadas:
+## Bibliotecas utilizadas:
 * Express
 * Nodemon
 * Morgan
