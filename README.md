@@ -1,5 +1,13 @@
-# desafio-node
+
 Desafío Mini Api en Node.js
+
+## Bibliotecas utilizadas y versión de Node.js:
+* Express
+* Nodemon
+* Morgan
+* Jest
+* Supertest
+* Node 14.17.1
 
 ## Levantar Server
 
@@ -41,9 +49,4 @@ Se deberá ingresar por *BODY* una partida de buscaminas de la forma indicado ab
 Los test se podrán correr desde la consola bajo el comando: 
 $ jest
 
-## Bibliotecas utilizadas:
-* Express
-* Nodemon
-* Morgan
-* Jest
-* Supertest
+
