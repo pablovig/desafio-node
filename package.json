@@ -1,0 +1,20 @@
+{
+  "name": "tap-desafio",
+  "version": "1.0.0",
+  "description": "desafio",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "server": "nodemon src/index.js"
+  },
+  "author": "pablovig",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13",
+    "supertest": "^6.1.6"
+  }
+}
